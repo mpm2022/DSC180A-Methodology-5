@@ -3,15 +3,11 @@ layout: default
 title: Home
 ---
 
-# name info
-**Name:** Mariana Paco Mendivil
-**Email:** mpacomendivil@ucsd.edu
+# Introduction
+Hi, I am Mariana Paco Mendivil, and this is my MA5 assignment. Feel free to reach out at mpacomendivil@ucsd.edu for any questions. I am enrolled in Section A09 of DSC180A, and I am doing research under the mentoring of Jelena Bradic & Biwei Huang.
 
-# section info
-**Section:** A09  
-**Mentor:** Jelena Bradic & Biwei Huang
 
-# Quarter 2 Project Proposal questions
+# Quarter 2 Project Proposal Q&A
 **What is the most interesting topic covered in your domain this quarter?**  
 In causal discovery, I found the various algorithms interesting, specifically PC with fast KCI as we have learned to implement it from causal-learn for our project. In causal inference, the Augmented Inverse Probability Weighting (AIPW) method for estimating treatment effects. I was previously unfamiliar with this approach.
 
