@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Introduction
-Hi, I am Mariana Paco Mendivil, and this is my MA5 assignment. Feel free to reach out at mpacomendivil@ucsd.edu for any questions. I am enrolled in Section A09 of DSC180A, and I am doing research under the mentoring of Jelena Bradic & Biwei Huang.
+Hi, I am Mariana Paco Mendivil, and this is my MA5 submission. Feel free to reach out at mpacomendivil@ucsd.edu for any questions. I am enrolled in Section A09 of DSC180A, and I am doing research under the mentoring of Jelena Bradic & Biwei Huang.
 
 
 # Quarter 2 Project Proposal Q&A
